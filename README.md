@@ -100,5 +100,3 @@ Styled using native PyQt stylesheet goodness:
 MIT License — use it, break it, fix it, ship it 💻
 
 ---
-
-Let me know if you want a dark mode version, icon set, or packaging it into an `.exe` for Windows!
