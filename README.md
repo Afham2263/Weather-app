@@ -8,11 +8,11 @@ Type a city name, hit the button, and BOOM — get real-time weather data with a
 
 ###  Features
 
- **>**Simple and responsive GUI using **PyQt5**  
- **>**Real-time weather updates with **OpenWeatherMap API**  
- **>**Clean layout with styled widgets  
- **>**Cute weather emojis based on weather condition codes  
- **>**Full error handling for bad requests, invalid cities, API issues, and internet errors
+ >Simple and responsive GUI using **PyQt5**  
+ >Real-time weather updates with **OpenWeatherMap API**  
+ >Clean layout with styled widgets  
+ >Cute weather emojis based on weather condition codes  
+ >Full error handling for bad requests, invalid cities, API issues, and internet errors
 
 ---
 
