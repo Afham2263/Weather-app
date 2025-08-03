@@ -1,18 +1,18 @@
 
-## 🌦️ Weather App — PyQt5 + OpenWeatherMap
+##  Weather App — PyQt5 + OpenWeatherMap
 
 A sleek, minimal, and emoji-powered weather application built using **Python**, **PyQt5**, and the **OpenWeatherMap API**.  
 Type a city name, hit the button, and BOOM — get real-time weather data with a clean UI and cute weather emojis ☀️🌧️🌪️.
 
 ---
 
-### 🚀 Features
+###  Features
 
-✅ Simple and responsive GUI using **PyQt5**  
-✅ Real-time weather updates with **OpenWeatherMap API**  
-✅ Clean layout with styled widgets  
-✅ Cute weather emojis based on weather condition codes  
-✅ Full error handling for bad requests, invalid cities, API issues, and internet errors
+ **>**Simple and responsive GUI using **PyQt5**  
+ **>**Real-time weather updates with **OpenWeatherMap API**  
+ **>**Clean layout with styled widgets  
+ **>**Cute weather emojis based on weather condition codes  
+ **>**Full error handling for bad requests, invalid cities, API issues, and internet errors
 
 ---
 
