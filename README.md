@@ -16,7 +16,7 @@ Type a city name, hit the button, and BOOM — get real-time weather data with a
 
 ---
 
-### 🔧 How It Works
+###  How It Works
 
 - Enter a **city name**
 - Click **"Get Weather"**
@@ -25,7 +25,7 @@ Type a city name, hit the button, and BOOM — get real-time weather data with a
 
 ---
 
-### 📦 Requirements
+###  Requirements
 
 - Python 3.x  
 - PyQt5  
@@ -40,7 +40,7 @@ pip install PyQt5 requests
 
 ---
 
-### 🔑 Setup Your API Key
+###  Setup Your API Key
 
 Replace this line in the code with your actual API key from OpenWeatherMap:
 
@@ -50,7 +50,7 @@ api_key = "YOUR_API_KEY_HERE"
 
 ---
 
-### 📁 How to Run
+###  How to Run
 
 ```bash
 python weather_app.py
@@ -60,20 +60,20 @@ python weather_app.py
 
 ---
 
-### 💥 Error Handling Included
+###  Error Handling Included
 
 This app handles all sorts of potential errors like:
 
-- ❌ Wrong city name
-- 🔐 Invalid API key
-- 🔌 No internet connection
-- 🧱 Server down / timeout
+-  Wrong city name
+-  Invalid API key
+-  No internet connection
+-  Server down / timeout
 
 You'll get descriptive messages for each — no mystery crashes.
 
 ---
 
-### 🌈 UI Vibes
+###  UI Vibes
 
 Styled using native PyQt stylesheet goodness:
 
@@ -84,19 +84,19 @@ Styled using native PyQt stylesheet goodness:
 
 ---
 
-### 🧠 Future Ideas (Optional)
+###  Future Ideas (Optional)
 
 - Add weather icons instead of just emojis  
 - Show additional data like humidity/wind  
 - Add support for location-based weather (via IP or GPS)  
-- Dark mode toggle 🌙
+- Dark mode toggle 
 
 ---
 
 
 
-### 📜 License
+###  License
 
-MIT License — use it, break it, fix it, ship it 💻
+MIT License — use it, break it, fix it, ship it 
 
 ---
